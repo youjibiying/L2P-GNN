@@ -51,7 +51,7 @@ class MetaPre(torch.nn.Module):
         torch.autograd.set_detect_anomaly(True)
         create_graph = (True if self.args.order == 2 else False) and train
 
-        batch_data = batch_data.to(self.args.device)
+        batch_data = batch_data.to(self.args.gpu)
         x = self.emb_initial(batch_data.x)
         sup_task_nodes_emb, que_task_nodes_emb = [], []
 

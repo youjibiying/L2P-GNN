@@ -62,6 +62,6 @@ python eval_bio.py --dataset bio --gnn_type gin --emb_trained_model_file co_adap
 and
 
 ```shell
-python eval_dblp.py --dataset dblp --gnn_type gin --split random --emb_trained_model_file co_adaptation_5_300_s50q30_gin_20_emb.pth --pre_trained_model_file co_adaptation_5_300_s50q30_gin_20_gnn.pth --pool_trained_model_file co_adaptation_5_300_s50q30_gin_20_pool.pth --result_file co_adaptation_5_300_s50q30_gin_20  --device 0 --dropout_ratio 0.1
+python eval_dblp.py --dataset dblp --gnn_type gin --split random --emb_trained_model_file co_adaptation_5_300_s50q30_gin_20_emb.pth --pre_trained_model_file co_adaptation_5_300_s50q30_gin_20_gnn.pth --pool_trained_model_file co_adaptation_5_300_s50q30_gin_20_pool.pth --result_file co_adaptation_5_300_s50q30_gin_20  --gpu 0 --dropout_ratio 0.1
 ```
 

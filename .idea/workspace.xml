@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18f188e0-af08-4385-b54d-3585cdf43acf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="d3ead2f8-5348-4f63-b89d-0f18a8b0aa52" />
+  <component name="ProjectId" id="20BP6uZBCcKUay1L8xmxDDpLjf0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CAHGCN" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\pythonCode\L2P-GNN\code" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.eval_dblp-debug">
+    <configuration name="eval_dblp-debug" type="PythonConfigurationType" factoryName="Python" singleton="false">
+      <module name="L2P-GNN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/eval_dblp.py" />
+      <option name="PARAMETERS" value="--dataset dblp --gnn_type gin --split random --emb_trained_model_file co_adaptation_5_300_s50q30_gin_20_emb.pth --pre_trained_model_file co_adaptation_5_300_s50q30_gin_20_gnn.pth --pool_trained_model_file co_adaptation_5_300_s50q30_gin_20_pool.pth --device 0 --dropout_ratio 0.1 --batch_size 8 --debug" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="eval_dblp" type="PythonConfigurationType" factoryName="Python" singleton="false" temporary="true" nameIsGenerated="true">
+      <module name="L2P-GNN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/eval_dblp.py" />
+      <option name="PARAMETERS" value="--dataset dblp --gnn_type gin --split random --emb_trained_model_file co_adaptation_5_300_s50q30_gin_20_emb.pth --pre_trained_model_file co_adaptation_5_300_s50q30_gin_20_gnn.pth --pool_trained_model_file co_adaptation_5_300_s50q30_gin_20_pool.pth --device 0 --dropout_ratio 0.1" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.eval_dblp-debug" />
+      <item itemvalue="Python.eval_dblp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.eval_dblp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18f188e0-af08-4385-b54d-3585cdf43acf" name="Default Changelist" comment="" />
+      <created>1635514836384</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635514836384</updated>
+      <workItem from="1635514837473" duration="19800000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="412" y="121" width="1266" height="682" key="#Deployment" timestamp="1635514946901">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="412" y="121" width="1266" height="682" key="#Deployment/-1080.0.1080.1920/0.0.2048.1152@0.0.2048.1152" timestamp="1635514946901" />
+    <state x="8" y="106" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1635584596170">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="8" y="106" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.900/1600.0.2560.1440@0.0.1600.900" timestamp="1635584596170" />
+    <state x="2334" y="375" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.900/1600.0.2560.1440@1600.0.2560.1440" timestamp="1635583375804" />
+    <state x="2512" y="520" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1635566851485">
+      <screen x="1600" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2512" y="520" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.900/1600.0.2560.1440@1600.0.2560.1440" timestamp="1635566851485" />
+    <state width="932" height="466" key="DebuggerActiveHint" timestamp="1635561745333">
+      <screen x="1600" y="0" width="2560" height="1440" />
+    </state>
+    <state width="932" height="466" key="DebuggerActiveHint/0.0.1600.900/1600.0.2560.1440@1600.0.2560.1440" timestamp="1635561745333" />
+    <state x="469" y="169" key="FileChooserDialogImpl" timestamp="1635642346900">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="600" y="216" key="FileChooserDialogImpl/-1080.0.1080.1920/0.0.2048.1152@0.0.2048.1152" timestamp="1635514913940" />
+    <state x="469" y="169" key="FileChooserDialogImpl/0.0.1600.900/1600.0.2560.1440@0.0.1600.900" timestamp="1635642346900" />
+    <state width="1258" height="507" key="GridCell.Tab.0.bottom" timestamp="1638172657627">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="1258" height="507" key="GridCell.Tab.0.bottom/-1080.0.1080.1920/0.0.2048.1152@0.0.2048.1152" timestamp="1638172657627" />
+    <state width="2517" height="365" key="GridCell.Tab.0.bottom/0.0.1600.900/1600.0.2560.1440@1600.0.2560.1440" timestamp="1635571523096" />
+    <state width="1258" height="507" key="GridCell.Tab.0.center" timestamp="1638172657626">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="1258" height="507" key="GridCell.Tab.0.center/-1080.0.1080.1920/0.0.2048.1152@0.0.2048.1152" timestamp="1638172657626" />
+    <state width="2517" height="365" key="GridCell.Tab.0.center/0.0.1600.900/1600.0.2560.1440@1600.0.2560.1440" timestamp="1635571523096" />
+    <state width="1258" height="507" key="GridCell.Tab.0.left" timestamp="1638172657625">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="1258" height="507" key="GridCell.Tab.0.left/-1080.0.1080.1920/0.0.2048.1152@0.0.2048.1152" timestamp="1638172657625" />
+    <state width="2517" height="365" key="GridCell.Tab.0.left/0.0.1600.900/1600.0.2560.1440@1600.0.2560.1440" timestamp="1635571523096" />
+    <state width="1258" height="507" key="GridCell.Tab.0.right" timestamp="1638172657626">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="1258" height="507" key="GridCell.Tab.0.right/-1080.0.1080.1920/0.0.2048.1152@0.0.2048.1152" timestamp="1638172657626" />
+    <state width="2517" height="365" key="GridCell.Tab.0.right/0.0.1600.900/1600.0.2560.1440@1600.0.2560.1440" timestamp="1635571523096" />
+    <state x="321" y="107" key="SettingsEditor" timestamp="1635514927780">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="321" y="107" key="SettingsEditor/-1080.0.1080.1920/0.0.2048.1152@0.0.2048.1152" timestamp="1635514927780" />
+    <state x="612" y="346" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration" timestamp="1635514926433">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="612" y="346" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/-1080.0.1080.1920/0.0.2048.1152@0.0.2048.1152" timestamp="1635514926433" />
+    <state x="614" y="149" width="566" height="536" key="find.popup" timestamp="1635584618472">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="614" y="149" width="566" height="536" key="find.popup/0.0.1600.900/1600.0.2560.1440@0.0.1600.900" timestamp="1635584618472" />
+    <state x="2582" y="238" width="596" height="750" key="find.popup/0.0.1600.900/1600.0.2560.1440@1600.0.2560.1440" timestamp="1635565655432" />
+    <state x="711" y="192" key="ftp.server.browser" timestamp="1635514945101">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="711" y="192" key="ftp.server.browser/-1080.0.1080.1920/0.0.2048.1152@0.0.2048.1152" timestamp="1635514945101" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code/eval_dblp.py</url>
+          <line>80</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/L2P_GNN$eval_dblp.coverage" NAME="eval_dblp Coverage Results" MODIFIED="1635560707558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/L2P_GNN$eval_dblp_debug.coverage" NAME="eval_dblp-debug Coverage Results" MODIFIED="1635566070424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+  </component>
+</project>

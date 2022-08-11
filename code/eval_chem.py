@@ -180,7 +180,7 @@ if __name__ == "__main__":
     parser.add_argument('--emb_dim', type=int, default=300,
                         help='embedding dimensions (default: 300)')
     parser.add_argument('--run_seed', type=int, default=0, help="Seed for running experiments.")
-    parser.add_argument('--num_workers', type=int, default=8, help='number of workers for dataset loading')
+    parser.add_argument('--num_workers', type=int, default=0, help='number of workers for dataset loading')
 
     # gnn settings
     parser.add_argument('--gnn_type', type=str, default="gin")
